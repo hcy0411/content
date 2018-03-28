@@ -1,10 +1,9 @@
-package com.content.Config;
+package com.content.config;
 
 import org.springframework.context.annotation.Configuration;
 
 
 /**
- * 卖家认证配置
  *
  * @author hcy
  */
